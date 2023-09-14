@@ -1,0 +1,8 @@
+db:
+  name: "./info_db"
+
+bot:
+  token: "6624016059:AAHfsThpQzvNSPyPLSKYe_RglpiCxR8y-jI"
+
+notifier:
+  sendInterval: 5
